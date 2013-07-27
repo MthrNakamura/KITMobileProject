@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KITMobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="title_activity_nine_ch">9ch</string>
+    <string name="title_activity_detail_info">DetailInfo</string>
+
+</resources>
